@@ -6,7 +6,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: Coming Soon
+    title: dot
     subtitle: meme's
     styles:
       self:
