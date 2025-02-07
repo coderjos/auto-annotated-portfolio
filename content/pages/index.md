@@ -6,7 +6,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: dot
+    title: Meme Tank
     subtitle: ''
     styles:
       self:
