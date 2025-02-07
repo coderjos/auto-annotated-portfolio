@@ -7,7 +7,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: dot
-    subtitle: meme'w
+    subtitle: ''
     styles:
       self:
         height: auto
