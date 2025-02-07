@@ -41,7 +41,7 @@ sections:
     title: Get notified
     form:
       type: FormBlock
-      elementId: sign-up-form
+      elementId: netlify
       fields:
         - name: firstName
           label: First Name
