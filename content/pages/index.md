@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Home
+title: Meme Tank
 colors: colors-a
 sections:
   - elementId: ''
