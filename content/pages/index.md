@@ -38,7 +38,7 @@ sections:
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
-    title: Pitch
+    title: Get notified
     form:
       type: FormBlock
       elementId: sign-up-form
