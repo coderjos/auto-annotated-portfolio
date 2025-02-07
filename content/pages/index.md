@@ -6,7 +6,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: memedot
+    title: dot
     subtitle: meme'
     styles:
       self:
